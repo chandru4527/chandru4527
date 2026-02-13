@@ -1,51 +1,24 @@
-<h1 align="center">Hi 👋, I'm Chandrukumar</h1>
-<h3 align="center">Full Stack Developer</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=CHANDRUKUMAR%20C&fontSize=26&fontAlignY=25&desc=Full%20Stack%20Developer&descAlignY=55&fontColor=ffffff"
+    width="100%"
+  />
 </p>
 
+<h1 align="center">Hi 👋, I'm CHANDRUKUMAR</h1>
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=chandru4527">
-    <img src="https://komarev.com/ghpvc/?username=chandru4527&label=Profile%20views&color=00FFFF&style=flat-square" alt="chandru4527's profile views" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=fff&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
 
 ## 📊 GitHub Stats
-
 <p align="center">
  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=chandru4527&theme=tokyonight" alt="GitHub Streak" /></a>
 </p>
 
+## 🛠 Techstack
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=chandru4527&theme=tokyo-night&radius=10" alt="sanjai2614's Activity Graph" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode&perline=10" />
 </p>
 
-## 🛠️ Languages & Tools
 
-> ## Programming Languages
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> 
 
-> ## Frontend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Backend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Database
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Tools
-<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandru4527&layout=compact&theme=github_dark&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
-</p>
-
- <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chandru4527/chandru4527/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chandru4527/chandru4527/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/chandru4527/chandru4527/output/github-snake.svg" />
-</picture> 
-
-## 🔗 Connect with Me
-<p align="center"><a href="https://linkedin.com/in/chandru4527" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:chandrukumar4527@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
