@@ -11,8 +11,10 @@
 </p>
 
 
-<img align="center" height="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 ## 👨‍💻 About Me
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
+</div>
 
 hi 👋 I'm CHANDRUKUMAR, a MERN Stack Developer in progress 🚀  
 
