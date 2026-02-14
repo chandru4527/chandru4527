@@ -50,9 +50,10 @@ I love turning ideas into real-world applications through code.
   </a>
 </p>
 
+## Activity
 <!-- snake -->
-  <p align="center">
-  <img src="https://raw.githubusercontent.com/chandru4527/chandru4527/output/github-snake.svg" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chandru4527/chandru4527/output/dark-green.svg" />
 </p>
 
 <!--footer -->
