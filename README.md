@@ -40,9 +40,11 @@ I love turning ideas into real-world applications through code.
 <p align="center">
  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=chandru4527&theme=tokyonight" alt="GitHub Streak" /></a>
 </p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandru4527&theme=tokyo-night" />
 </p>
+
 
 ## 📬 Contact Me
 <p align="center">
