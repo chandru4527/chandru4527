@@ -51,10 +51,12 @@ I love turning ideas into real-world applications through code.
 </p>
 
 ## Activity
-<!-- snake -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/chandru4527/chandru4527/output/dark-green.svg" />
-</p>
+<!-- pacman -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chandru4527/chandru4527/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chandru4527/chandru4527/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/chandru4527/chandru4527/output/pacman-contribution-graph.svg">
+</picture>
 
 <!--footer -->
 <img 
