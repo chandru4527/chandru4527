@@ -15,12 +15,11 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-  - uses: Platane/snk@v3
+ - uses: Platane/snk@v3
   with:
     github_user_name: chandru4527
     outputs: |
-      dist/dark.svg?color_snake=#00ffcc&color_dots=#000000,#001a1a,#003333,#004d4d,#00ffcc
-
+      dist/dark-green.svg?color_snake=#00ff88&color_dots=#0d1117,#0e4429,#006d32,#26a641,#39d353
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
