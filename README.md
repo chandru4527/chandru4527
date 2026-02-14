@@ -10,7 +10,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=fff&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
 
+
 ## 👨‍💻 About Me
+<img align="right" height="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 hi 👋 I'm CHANDRUKUMAR, a MERN Stack Developer in progress 🚀  
 
