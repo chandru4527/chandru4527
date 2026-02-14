@@ -45,19 +45,17 @@ I love turning ideas into real-world applications through code.
   <a href="mailto:chandrukumar4527@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
   <a href="https://www.linkedin.com/in/chandru4527/">
     <img src="https://img.shields.io/badge/LinkedIn-CHANDRUKUMAR-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
-- uses: Platane/snk@v3
-  with:
-    github_user_name:chandru4527
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
+<!-- snake -->
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/chandru4527/chandru4527/output/github-snake.svg" />
+</p>
 
+<!--footer -->
 <img 
   src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=25&fontColor=ffffff" 
   width="100%" 
