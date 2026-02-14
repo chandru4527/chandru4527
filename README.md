@@ -11,7 +11,7 @@
 </p>
 
 
-<img align="right" height="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="center" height="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 ## 👨‍💻 About Me
 
 hi 👋 I'm CHANDRUKUMAR, a MERN Stack Developer in progress 🚀  
