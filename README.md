@@ -50,17 +50,13 @@ I love turning ideas into real-world applications through code.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandru4527&&theme=tokyonight" />
 </p>
 
-
-<h3 align="center">Most Used Languages</h3>
+<h3 align="center">🚀 Most Used Languages</h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/JavaScript-80%25-black?style=for-the-badge&logo=javascript&logoColor=yellow"/>
-<img src="https://img.shields.io/badge/CSS-70%25-black?style=for-the-badge&logo=css3&logoColor=blue"/>
-<img src="https://img.shields.io/badge/HTML-60%25-black?style=for-the-badge&logo=html5&logoColor=orange"/>
+<img src="https://img.shields.io/badge/JavaScript-80%25-1a1b27?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/CSS-70%25-1a1b27?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/HTML-60%25-1a1b27?style=for-the-badge&logo=html5&logoColor=E34F26"/>
 </p>
-
-
-
 
 ## 📬 Contact Me
 <p align="center">
