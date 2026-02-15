@@ -58,6 +58,8 @@ I love turning ideas into real-world applications through code.
 <img src="https://img.shields.io/badge/HTML-60%25-1a1b27?style=for-the-badge&logo=html5&logoColor=E34F26"/>
 </p>
 
+
+
 ## 📬 Contact Me
 <p align="center">
   <a href="mailto:chandrukumar4527@gmail.com">
