@@ -1,8 +1,10 @@
+<!-- header -->
 <img 
   src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c81,100:1e90ff&height=170&section=header&text=CHANDRUKUMAR%20C&fontSize=26&fontAlignY=25&desc=Full%20Stack%20Developer&descAlignY=55&fontColor=ffffff"
   width="100%"
 />
 
+<!-- name -->
 <h1 align="center">
   Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm CHANDRUKUMAR
 </h1>
@@ -13,7 +15,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=fff&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
 
-
+<!-- about me -->
 ## 👨‍💻 About Me
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
@@ -34,11 +36,13 @@ I'm currently learning and building full stack web applications using:
 
 I love turning ideas into real-world applications through code.
 
+<!-- techstacks -->
 ## 🛠 Techstack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,figma,tailwind,bootstrap&perline=7" />
 </p>
 
+<!-- github stats -->
 ## 📊 GitHub Stats
 <p align="center">
  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=chandru4527&theme=tokyonight" alt="GitHub Streak" /></a>
@@ -62,6 +66,7 @@ I love turning ideas into real-world applications through code.
 <img src="https://img.shields.io/badge/Bootstrap-30%25-1a1b27?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/>
 </p>
 
+<!-- contact -->
 ## 📬 Contact Me
 <p align="center">
   <a href="mailto:chandrukumar4527@gmail.com">
@@ -85,7 +90,8 @@ I love turning ideas into real-world applications through code.
   </a>
 </p>
 
-## 📈 Activity
+<!-- activity -->
+## 📈 Activity contribution
 <!-- pacman -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chandru4527/chandru4527/output/pacman-contribution-graph-dark.svg">
