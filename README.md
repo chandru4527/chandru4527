@@ -62,7 +62,7 @@ I love turning ideas into real-world applications through code.
 <img src="https://img.shields.io/badge/JavaScript-80%25-1a1b27?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/CSS-70%25-1a1b27?style=for-the-badge&logo=css&logoColor=1572B6"/>
 <img src="https://img.shields.io/badge/HTML-60%25-1a1b27?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/TailwindCSS-35%25-1a1b27?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"/>
+<img src="https://img.shields.io/badge/TailwindCSS-45%25-1a1b27?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"/>
 <img src="https://img.shields.io/badge/Bootstrap-30%25-1a1b27?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/>
 </p>
 
