@@ -21,20 +21,37 @@
   <img height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 </div>
 
-hi 👋 I'm CHANDRUKUMAR, a MERN Stack Developer in progress 🚀  
+👋 Hi, I'm CHANDRUKUMAR
 
-I'm currently learning and building full stack web applications using:
+🚀 MERN Stack Developer (In Progress)
 
-🟢 MongoDB  
-⚛️ React  
-🟢 Node.js  
-🚂 Express  
+I'm a passionate Full Stack Developer focused on building modern, responsive, and scalable web applications using the MERN stack.
 
-💡 Passionate about creating responsive and scalable web apps  
-🌱 Continuously improving my frontend & backend skills  
-🎯 Goal: To become a professional Full Stack Developer  
+🛠️ Tech Stack
 
-I love turning ideas into real-world applications through code.
+🟢 MongoDB
+
+🚂 Express.js
+
+⚛️ React.js
+
+🟢 Node.js
+
+🌱 Currently
+
+Improving my frontend & backend development skills
+
+Building real-world full stack projects
+
+Learning best practices in authentication, APIs & deployment
+
+🎯 Goal
+
+To become a professional Full Stack Developer and contribute to impactful real-world applications.
+
+💡 About Me
+
+I enjoy turning ideas into functional and user-friendly web applications through clean and efficient code. I’m always eager to learn new technologies and improve my problem-solving skills.
 
 <!-- techstacks -->
 ## 🛠 Techstack
