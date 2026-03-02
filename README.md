@@ -25,33 +25,61 @@
 
 🚀 MERN Stack Developer (In Progress)
 
-I'm a passionate Full Stack Developer focused on building modern, responsive, and scalable web applications using the MERN stack.
+💻 Passionate about building modern, responsive & scalable web applications
+🌱 Currently mastering the MERN Stack
+🎯 Focused on writing clean, efficient & maintainable code
+🔥 Love turning real-world problems into practical web solutions
+
+I am a dedicated Full Stack Developer in progress, continuously learning and improving my skills in both frontend and backend development.
 
 🛠️ Tech Stack
-
-🟢 MongoDB
-
-🚂 Express.js
+🌐 Frontend
 
 ⚛️ React.js
 
+🎨 HTML5
+
+💅 CSS3
+
+🌪️ Tailwind CSS
+
+🟨 JavaScript (ES6+)
+
+🖥️ Backend
+
 🟢 Node.js
 
-🌱 Currently
+🚂 Express.js
 
-Improving my frontend & backend development skills
+🗄️ Database
 
-Building real-world full stack projects
+🟢 MongoDB
 
-Learning best practices in authentication, APIs & deployment
+🔧 Tools & Platforms
 
-🎯 Goal
+🐙 Git & GitHub
 
-To become a professional Full Stack Developer and contribute to impactful real-world applications.
+🧑‍💻 VS Code
 
-💡 About Me
+🌍 Postman
 
-I enjoy turning ideas into functional and user-friendly web applications through clean and efficient code. I’m always eager to learn new technologies and improve my problem-solving skills.
+☁️ Render / Vercel
+
+🌱 Currently Learning
+
+🔐 Authentication & Authorization (JWT, bcrypt)
+
+🌍 RESTful API Development
+
+🚀 Deployment & Production Best Practices
+
+🏗️ Scalable Project Architecture
+
+📌 My Goals
+
+✨ Become a Professional Full Stack Developer
+✨ Contribute to impactful real-world applications
+✨ Work on scalable and high-performance web projects
 
 <!-- techstacks -->
 ## 🛠 Techstack
