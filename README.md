@@ -26,7 +26,12 @@
 💻 MERN Stack Developer (Learning & Building)
 I'm a passionate developer currently learning and building projects using the MERN Stack. I enjoy creating modern web applications and improving my skills by building real-world projects.
 
-I am a dedicated Full Stack Developer in progress, continuously learning and improving my skills in both frontend and backend development.
+🚀 About Me
+🌱 Currently learning MongoDB, Express.js, React.js, Node.js
+💡 Interested in Full Stack Web Development
+🧠 Practicing JavaScript, React Hooks, and API Integration
+🔨 Love building UI projects and real-world applications
+📚 Always learning new technologies
 
 🛠️ Tech Stack
 🌐 Frontend
