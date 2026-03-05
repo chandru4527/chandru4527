@@ -23,12 +23,8 @@
 
 👋 Hi, I'm CHANDRUKUMAR
 
-🚀 MERN Stack Developer (In Progress)
-
-💻 Passionate about building modern, responsive & scalable web applications
-🌱 Currently mastering the MERN Stack
-🎯 Focused on writing clean, efficient & maintainable code
-🔥 Love turning real-world problems into practical web solutions
+💻 MERN Stack Developer (Learning & Building)
+I'm a passionate developer currently learning and building projects using the MERN Stack. I enjoy creating modern web applications and improving my skills by building real-world projects.
 
 I am a dedicated Full Stack Developer in progress, continuously learning and improving my skills in both frontend and backend development.
 
