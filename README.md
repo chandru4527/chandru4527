@@ -33,8 +33,10 @@ I'm a passionate developer currently learning and building projects using the ME
 🔨 Love building UI projects and real-world applications
 📚 Always learning new technologies
 
+
 🛠️ Tech Stack
-🌐 Frontend
+
+--- 🌐 Frontend ---
 
 ⚛️ React.js
 
@@ -46,17 +48,20 @@ I'm a passionate developer currently learning and building projects using the ME
 
 🟨 JavaScript (ES6+)
 
-🖥️ Backend
+
+--- 🖥️ Backend ---
 
 🟢 Node.js
 
 🚂 Express.js
 
-🗄️ Database
+
+--- 🗄️ Database ---
 
 🟢 MongoDB
 
-🔧 Tools & Platforms
+
+--- 🔧 Tools & Platforms ---
 
 🐙 Git & GitHub
 
@@ -65,6 +70,7 @@ I'm a passionate developer currently learning and building projects using the ME
 🌍 Postman
 
 ☁️ Render / Vercel
+
 
 🌱 Currently Learning
 
