@@ -91,7 +91,7 @@ I'm a passionate developer currently learning and building projects using the ME
 <!-- techstacks -->
 ## 🛠 Techstack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,figma,tailwind,bootstrap&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,figma,tailwind,bootstrap,nextjs&perline=7" />
 </p>
 
 <!-- github stats -->
