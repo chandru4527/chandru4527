@@ -67,8 +67,6 @@ I'm a passionate developer currently learning and building projects using the ME
 
 🧑‍💻 VS Code
 
-🌍 Postman
-
 ☁️ Render / Vercel
 
 
