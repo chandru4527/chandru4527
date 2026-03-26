@@ -1,4 +1,4 @@
-<!-- header -->
+<!-- headers -->
 <img 
   src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c81,100:1e90ff&height=170&section=header&text=CHANDRUKUMAR%20C&fontSize=26&fontAlignY=25&desc=Full%20Stack%20Developer&descAlignY=55&fontColor=ffffff"
   width="100%"
