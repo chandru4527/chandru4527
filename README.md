@@ -6,7 +6,7 @@
 
 <!-- name -->
 <h1 align="center">
-  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm CHANDRUKUMAR
+  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm CHANDRUKUMAR C
 </h1>
 
 <h3 align="center">MERN Stack Developer | Building Modern & Scalable Web Applications</h3>
@@ -21,7 +21,7 @@
   <img height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 </div>
 
-👋 Hi, I'm CHANDRUKUMAR
+👋 Hi, I'm CHANDRUKUMAR C
 
 💻 MERN Stack Developer (Learning & Building)
 I'm a passionate developer currently learning and building projects using the MERN Stack. I enjoy creating modern web applications and improving my skills by building real-world projects.
@@ -112,7 +112,7 @@ I'm a passionate developer currently learning and building projects using the ME
 <img src="https://img.shields.io/badge/JavaScript-80%25-1a1b27?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/CSS-90%25-1a1b27?style=for-the-badge&logo=css&logoColor=1572B6"/>
 <img src="https://img.shields.io/badge/HTML-90%25-1a1b27?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/TailwindCSS-88%25-1a1b27?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"/>
+<img src="https://img.shields.io/badge/TailwindCSS-85%25-1a1b27?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"/>
 <img src="https://img.shields.io/badge/Bootstrap-40%25-1a1b27?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/>
 </p>
 
