@@ -109,7 +109,7 @@ I'm a passionate developer currently learning and building projects using the ME
 
 <h3 align="center">🚀 Most Used Languages</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/JavaScript-80%25-1a1b27?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/JavaScript-85%25-1a1b27?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/CSS-90%25-1a1b27?style=for-the-badge&logo=css&logoColor=1572B6"/>
 <img src="https://img.shields.io/badge/HTML-95%25-1a1b27?style=for-the-badge&logo=html5&logoColor=E34F26"/>
 <img src="https://img.shields.io/badge/TailwindCSS-85%25-1a1b27?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"/>
