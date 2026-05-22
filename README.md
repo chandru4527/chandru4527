@@ -76,8 +76,6 @@ I'm a passionate developer currently learning and building projects using the ME
 
 🚀 Deployment & Production Best Practices
 
-🏗️ Scalable Project Architecture
-
 📌 My Goals
 
 ✨ Become a Professional Full Stack Developer
