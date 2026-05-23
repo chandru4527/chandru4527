@@ -67,15 +67,6 @@ I'm a passionate developer currently learning and building projects using the ME
 
 🧑‍💻 VS Code
 
-
-🌱 Currently Learning
-
-🔐 Authentication & Authorization (JWT, bcrypt)
-
-🌍 RESTful API Development
-
-🚀 Deployment & Production Best Practices
-
 📌 My Goals
 
 ✨ Become a Professional Full Stack Developer
