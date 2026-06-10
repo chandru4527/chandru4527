@@ -81,9 +81,9 @@ I'm a passionate developer currently learning and building projects using the ME
 
 <!-- github stats -->
 ## 📊 GitHub Stats
-<p align="center">
+<!-- <p align="center">
  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=chandru4527&theme=tokyonight" alt="GitHub Streak" /></a>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chandru4527&&theme=tokyonight" />
