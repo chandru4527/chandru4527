@@ -80,8 +80,6 @@ I'm a passionate developer currently learning and building projects using the ME
 </p>
 
 <!-- github stats -->
-## 📊 GitHub Stats
-<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=chandru4527&show_icons=true&theme=tokyonight&hide_border=true" height="180"/> -->
