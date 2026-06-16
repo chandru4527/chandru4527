@@ -23,55 +23,21 @@
 
 👋 Hi, I'm CHANDRUKUMAR C
 
+💻 Full Stack Developer | MERN Stack Enthusiast
 
+I'm a passionate Full Stack Developer focused on building responsive, scalable, and user-friendly web applications. I enjoy transforming ideas into real-world projects while continuously learning modern web technologies.
 
-🚀 About Me
-🌱 Currently learning MongoDB, Express.js, React.js, Node.js
-💡 Interested in Full Stack Web Development
-🧠 Practicing JavaScript, React Hooks, and API Integration
-🔨 Love building UI projects and real-world applications
-📚 Always learning new technologies.
+### 🛠️ Tech Stack
+⚛️ React.js • Next.js • JavaScript • HTML • CSS • Tailwind CSS  
+🟢 Node.js • Express.js • MongoDB  
+🐙 Git • GitHub • VS Code • Postman
 
+### 🎯 Goals
+✨ Build impactful web applications  
+✨ Grow as a Professional Full Stack Developer  
+✨ Continuously learn and improve
 
-🛠️ Tech Stack
-
---- 🌐 Frontend ---
-
-⚛️ React.js
-
-🎨 HTML5
-
-💅 CSS3
-
-🌪️ Tailwind CSS
-
-🟨 JavaScript (ES6+)
-
-
---- 🖥️ Backend ---
-
-🟢 Node.js
-
-🚂 Express.js
-
-
---- 🗄️ Database ---
-
-🟢 MongoDB
-
-
---- 🔧 Tools & Platforms ---
-
-🐙 Git & GitHub
-
-🧑‍💻 VS Code
-
-📌 My Goals
-
-✨ Become a Professional Full Stack Developer
-✨ Contribute to impactful real-world applications
-✨ Work on scalable and high-performance web projects
-
+> Turning ideas into interactive web experiences 🚀
 <!-- techstacks -->
 ## 🛠 Techstack
 <p align="center">
