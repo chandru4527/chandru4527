@@ -23,8 +23,7 @@
 
 👋 Hi, I'm CHANDRUKUMAR C
 
-💻 MERN Stack Developer (Learning & Building)
-I'm a passionate developer currently learning and building projects using the MERN Stack. I enjoy creating modern web applications and improving my skills by building real-world projects.
+
 
 🚀 About Me
 🌱 Currently learning MongoDB, Express.js, React.js, Node.js
