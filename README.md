@@ -28,7 +28,6 @@
 
 I'm a passionate Full Stack Developer focused on building responsive, scalable, and user-friendly web applications. I enjoy transforming ideas into real-world projects while continuously learning modern web technologies.
 
-### 🛠️ Tech Stack
 ⚛️ React.js • Next.js • JavaScript • HTML • CSS • Tailwind CSS  
 🟢 Node.js • Express.js • MongoDB  
 🐙 Git • GitHub • VS Code • Postman
