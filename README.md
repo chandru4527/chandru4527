@@ -70,7 +70,7 @@ I'm a passionate Full Stack Developer focused on building responsive, scalable, 
 <img src="https://img.shields.io/badge/CSS-90%25-1a1b27?style=for-the-badge&logo=css&logoColor=1572B6"/>
 <img src="https://img.shields.io/badge/HTML-95%25-1a1b27?style=for-the-badge&logo=html5&logoColor=E34F26"/>
 <img src="https://img.shields.io/badge/TailwindCSS-85%25-1a1b27?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"/>
-<img src="https://img.shields.io/badge/Bootstrap-40%25-1a1b27?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/>
+<img src="https://img.shields.io/badge/React-40%25-1a1b27?style=for-the-badge&logo=react&logoColor=1572B6"/>
 </p>
 
 <!-- contact -->
