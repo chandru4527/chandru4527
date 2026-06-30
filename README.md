@@ -37,7 +37,6 @@ I'm a passionate Full Stack Developer focused on building responsive, scalable, 
 ✨ Grow as a Professional Full Stack Developer  
 ✨ Continuously learn and improve
 
-> Turning ideas into interactive web experiences 🚀
 <!-- techstacks -->
 ## 🛠 Techstack
 <p align="center">
