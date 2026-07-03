@@ -59,10 +59,6 @@ I'm a passionate Full Stack Developer focused on building responsive, scalable, 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chandru4527&&theme=tokyonight&utcOffset=5.5" />
 </p>
 
-<!-- <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandru4527&&theme=tokyonight" />
-</p> -->
-
 <h3 align="center">🚀 Most Used Languages</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/React-85%25-1a1b27?style=for-the-badge&logo=react&logoColor=1572B6"/>
