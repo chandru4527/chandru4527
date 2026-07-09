@@ -39,9 +39,9 @@ I'm a passionate Full Stack Developer focused on building responsive, scalable, 
 
 <!-- techstacks -->
 ## 🛠 Techstack
-<p align="center">
+<!--<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,figma,tailwind,bootstrap,typescript,nextjs&perline=7" />
-</p>
+</p> -->
 
 <!-- github stats -->
 
