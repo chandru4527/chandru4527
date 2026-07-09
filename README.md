@@ -39,15 +39,15 @@ I'm a passionate Full Stack Developer focused on building responsive, scalable, 
 
 <!-- techstacks -->
 ## 🛠 Techstack
-<!--<p align="center">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,figma,tailwind,bootstrap,typescript,nextjs&perline=7" />
-</p> -->
+</p> 
 
 <!-- github stats -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandru4527&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=chandru4527&theme=tokyonight&hide_border=true" />
