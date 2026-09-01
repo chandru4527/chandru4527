@@ -33,9 +33,9 @@ I'm a passionate Full Stack Developer focused on building responsive, scalable, 
 🐙 Git • GitHub • VS Code • Postman
 
 ### 🎯 Goals
-✨ Build impactful web applications  
+<!-- ✨ Build impactful web applications  
 ✨ Grow as a Professional Full Stack Developer  
-✨ Continuously learn and improve 
+✨ Continuously learn and improve -->
 
 <!-- techstacks -->
 ## 🛠 Techstack
