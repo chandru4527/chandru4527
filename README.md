@@ -34,11 +34,11 @@ I'm a MERN Stack Developer passionate about building responsive, interactive, an
 
 🌱 **Learning:** Exploring modern web development practices and strengthening my full-stack development skills.
 
-⚛️ **Frontend:** React.js, Next.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
+⚛️ **Frontend:** React.js, Next.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap
 
 🟢 **Backend:** Node.js, Express.js, REST APIs, MongoDB
 
-🛠️ **Tools & Libraries:** Git, GitHub, Postman, TanStack Query, Zustand
+🛠️ **Tools & Libraries:** Git, GitHub, Postman, TanStack Query, Zustand, Redux
 
 🎯 **Interests:** Building scalable web applications, creating reusable components, and solving real-world development challenges.
 
@@ -50,7 +50,7 @@ I'm a MERN Stack Developer passionate about building responsive, interactive, an
 <!-- techstacks -->
 ## 🛠 Techstack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,figma,tailwind,bootstrap,typescript&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,figma,tailwind,bootstrap,typescript,nextjs&perline=7" />
 </p> 
 
 <!-- github stats -->
