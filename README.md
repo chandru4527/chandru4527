@@ -17,20 +17,35 @@
 
 <!-- about me -->
 ## 👨‍💻 About Me
+
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 </div>
 
+<h3 align="center">Hi, I'm CHANDRUKUMAR C 👋</h3>
 
-👋 Hi, I'm CHANDRUKUMAR C
+<p align="center">
+  MERN Stack Developer | Software Developer | Frontend Enthusiast
+</p>
 
-💻 Full Stack Developer | MERN Stack Enthusiast
+I'm a MERN Stack Developer passionate about building responsive, interactive, and user-friendly web applications. I enjoy working on live projects, developing reusable UI components, integrating REST APIs, and improving application functionality.
 
-I'm a passionate Full Stack Developer focused on building responsive, scalable, and user-friendly web applications. I enjoy transforming ideas into real-world projects while continuously learning modern web technologies.
+💼 **Currently:** Working on live projects and implementing new features using React.js and modern frontend technologies.
 
-⚛️ React.js • Next.js • JavaScript • HTML • CSS • Tailwind CSS  
-🟢 Node.js • Express.js • MongoDB  
-🐙 Git • GitHub • VS Code • Postman
+🌱 **Learning:** Exploring modern web development practices and strengthening my full-stack development skills.
+
+⚛️ **Frontend:** React.js, Next.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
+
+🟢 **Backend:** Node.js, Express.js, REST APIs, MongoDB
+
+🛠️ **Tools & Libraries:** Git, GitHub, Postman, TanStack Query, Zustand
+
+🎯 **Interests:** Building scalable web applications, creating reusable components, and solving real-world development challenges.
+
+🌐 **Portfolio:** [Visit My Portfolio](https://chandrukumar-portfolio.netlify.app/)
+
+🤝 **Open to:** Collaborations, learning opportunities, and exciting web development projects.
+
 
 <!-- techstacks -->
 ## 🛠 Techstack
