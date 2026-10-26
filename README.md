@@ -38,7 +38,7 @@ I'm a MERN Stack Developer passionate about building responsive, interactive, an
 
 🟢 **Backend:** Node.js, Express.js, REST APIs, MongoDB
 
-🛠️ **Tools & Libraries:** Git, GitHub, Postman, TanStack Query, Zustand, Redux
+🛠️ **Tools & Libraries:** Git, GitHub, Postman, TanStack Query, Zustand, Redux, Vercel, Netlify
 
 🎯 **Interests:** Building scalable web applications, creating reusable components, and solving real-world development challenges.
 
