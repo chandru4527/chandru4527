@@ -70,11 +70,21 @@ I'm a MERN Stack Developer passionate about building responsive, interactive, an
 
 <h3 align="center">🚀 Most Used Languages</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/React-85%25-1a1b27?style=for-the-badge&logo=react&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/React-85%25-1a1b27?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/JavaScript-85%25-1a1b27?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/CSS-90%25-1a1b27?style=for-the-badge&logo=css&logoColor=1572B6"/>
-<img src="https://img.shields.io/badge/HTML-95%25-1a1b27?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/TailwindCSS-85%25-1a1b27?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"/>
+<img src="https://img.shields.io/badge/Node.js-90%25-1a1b27?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
+<img src="https://img.shields.io/badge/Express.js-85%25-1a1b27?style=for-the-badge&logo=express&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/MongoDB-85%25-1a1b27?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+<!-- <img src="https://img.shields.io/badge/HTML5-95%25-1a1b27?style=for-the-badge&logo=html5&logoColor=E34F26"/> -->
+<!-- <img src="https://img.shields.io/badge/CSS3-85%25-1a1b27?style=for-the-badge&logo=css3&logoColor=1572B6"/> -->
+<img src="https://img.shields.io/badge/TailwindCSS-85%25-1a1b27?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
+<!-- <img src="https://img.shields.io/badge/Python-75%25-1a1b27?style=for-the-badge&logo=python&logoColor=3776AB"/> -->
+<!-- <img src="https://img.shields.io/badge/Django-75%25-1a1b27?style=for-the-badge&logo=django&logoColor=092E20"/> -->
+<!-- <img src="https://img.shields.io/badge/MySQL-80%25-1a1b27?style=for-the-badge&logo=mysql&logoColor=4479A1"/> -->
+<img src="https://img.shields.io/badge/Git-85%25-1a1b27?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub-85%25-1a1b27?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/React_Query-80%25-1a1b27?style=for-the-badge&logo=tanstack&logoColor=FF4154"/>
+<img src="https://img.shields.io/badge/Zustand-75%25-1a1b27?style=for-the-badge"/>
 </p>
 
 <!-- contact -->
